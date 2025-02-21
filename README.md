@@ -1,4 +1,3 @@
-# seekers_maze
 # SEEKERS MAZE
 
 ## Overview
